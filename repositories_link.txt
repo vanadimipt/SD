@@ -6,3 +6,6 @@ https://github.com/adieyal/sd-dynamic-prompts
 https://github.com/DominikDoom/a1111-sd-webui-tagcomplete
 https://github.com/AUTOMATIC1111/stable-diffusion-webui-promptgen
 https://github.com/alemelis/sd-webui-ar
+https://github.com/h43lb1t0/SD-WebUI-BatchCheckpointPrompt
+https://github.com/namkazt/sd-webui-prompt-history
+https://github.com/AIrjen/OneButtonPrompt
